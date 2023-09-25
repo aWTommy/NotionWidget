@@ -248,7 +248,7 @@
   
   <script>
     function navigate() {
-      window.open("", '_blank').focus();
+      window.open("", '_parental').focus();
     }
   </script>
 
