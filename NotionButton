@@ -248,7 +248,7 @@
   
   <script>
     function navigate() {
-      window.open("https://admin.typeform.com/form/MPWBXEZI/create?block=d39951bf-62eb-4659-8d37-bbfb09bc66ca&typeform-source=admin.typeform.com", '_blank').focus();
+      window.open("", '_blank').focus();
     }
   </script>
 
